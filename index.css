@@ -1,0 +1,26 @@
+body{
+	background-color:rgb(250, 253, 116);
+	font-family: 'Nanum Gothic', sans-serif;
+}
+.dark{
+	background-color:black;
+	color:white;
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+}
+a:hover{
+	color:pink;
+}
+::selection{
+	color:gray;
+	background-color:white;
+}
+a{
+	color:rgb(195, 133, 253);
+}
+#ncu{
+	border-radius:20px;
+	width:600px;
+	height:auto;
+}
